@@ -1,0 +1,1 @@
+LEGISLATORS_FILE = File.expand_path '../../data/legislators.csv', __FILE__
