@@ -1,0 +1,475 @@
+title,firstname,lastname,party,state,district,bioguide_id,birthdate,twitter_id
+Rep,Robert,Aderholt,R,AL,4,A000055,1965-07-22,Robert_Aderholt
+Sen,Lamar,Alexander,R,TN,Senior Seat,A000360,1940-07-03,senalexander
+Rep,Rodney,Alexander,R,LA,5,A000361,1946-12-05,USRepAlexander
+Rep,Justin,Amash,R,MI,3,A000367,1980-04-18,repjustinamash
+Rep,Mark,Amodei,R,NV,2,A000369,1958-06-12,markamodeinv2
+Rep,Spencer,Bachus,R,AL,6,B000013,1947-12-28,BachusAL06
+Rep,Joe,Barton,R,TX,6,B000213,1949-09-15,RepJoeBarton
+Rep,Xavier,Becerra,D,CA,34,B000287,1958-01-26,repbecerra
+Rep,Sanford,Bishop,D,GA,2,B000490,1947-02-04,SanfordBishop
+Rep,Earl,Blumenauer,D,OR,3,B000574,1948-08-16,blumenauermedia
+Sen,Roy,Blunt,R,MO,Junior Seat,B000575,1950-01-10,RoyBlunt
+Rep,John,Boehner,R,OH,8,B000589,1949-11-17,SpeakerBoehner
+Sen,Barbara,Boxer,D,CA,Junior Seat,B000711,1940-11-11,senatorboxer
+Rep,Kevin,Brady,R,TX,8,B000755,1955-04-11,RepKevinBrady
+Rep,Corrine,Brown,D,FL,5,B000911,1946-11-11,RepCorrineBrown
+Sen,Sherrod,Brown,D,OH,Senior Seat,B000944,1952-11-09,SenSherrodBrown
+Sen,Richard,Burr,R,NC,Senior Seat,B001135,1955-11-30,senatorburr
+Rep,Robert,Brady,D,PA,1,B001227,1945-04-07,RepBrady
+Sen,John,Boozman,R,AR,Junior Seat,B001236,1950-12-10,JohnBoozman
+Rep,Timothy,Bishop,D,NY,1,B001242,1950-06-01,timbishopny
+Rep,Marsha,Blackburn,R,TN,7,B001243,1952-06-06,MarshaBlackburn
+Rep,Jo,Bonner,R,AL,1,B001244,1959-11-19,repjobonner
+Rep,Madeleine,Bordallo,D,GU,0,B001245,1933-05-31,CandiceMiller
+Rep,Michael,Burgess,R,TX,26,B001248,1950-12-23,michaelcburgess
+Rep,Rob,Bishop,R,UT,1,B001250,1951-07-13,RepRobBishop
+Rep,George,Butterfield,D,NC,1,B001251,1947-04-27,gkbutterfield
+Rep,John,Barrow,D,GA,12,B001252,1955-10-31,repjohnbarrow
+Rep,Charles,Boustany,R,LA,3,B001255,1956-02-21,RepBoustany
+Rep,Michele,Bachmann,R,MN,6,B001256,1956-04-06,MicheleBachmann
+Rep,Gus,Bilirakis,R,FL,12,B001257,1963-02-08,RepGusBilirakis
+Rep,Bruce,Braley,D,IA,1,B001259,1957-10-30,brucebraley
+Rep,Vern,Buchanan,R,FL,16,B001260,1951-05-08,VernBuchanan
+Sen,John,Barrasso,R,WY,Junior Seat,B001261,1952-07-21,SenJohnBarrasso
+Rep,Paul,Broun,R,GA,10,B001262,1946-05-14,RepPaulBrounMD
+Sen,Mark,Begich,D,AK,Junior Seat,B001265,1962-03-30,SenatorBegich
+Sen,Michael,Bennet,D,CO,Junior Seat,B001267,1964-11-28,SenBennetCo
+Rep,Lou,Barletta,R,PA,11,B001269,1956-01-28,RepLouBarletta
+Rep,Karen,Bass,D,CA,37,B001270,1953-10-03,RepKarenBass
+Rep,Dan,Benishek,R,MI,1,B001271,1952-04-20,CongressmanDan
+Rep,Diane,Black,R,TN,6,B001273,1951-01-16,RepDianeBlack
+Rep,Mo,Brooks,R,AL,5,B001274,1954-04-29,RepMoBrooks
+Rep,Larry,Bucshon,R,IN,8,B001275,1962-05-31,RepLarryBucshon
+Sen,Richard,Blumenthal,D,CT,Senior Seat,B001277,1946-02-13,SenBlumenthal
+Rep,Suzanne,Bonamici,D,OR,1,B001278,1954-10-14,RepBonamici
+Rep,Ron,Barber,D,AZ,2,B001279,1945-08-25,RepRonBarber
+Rep,Kerry,Bentivolio,R,MI,11,B001280,1951-10-06,repkerryb
+Rep,Garland,Barr,R,KY,6,B001282,1973-07-24,RepAndyBarr
+Rep,Jim,Bridenstine,R,OK,1,B001283,1975-06-15,RepJBridenstine
+Rep,Susan,Brooks,R,IN,5,B001284,1960-08-25,SusanWBrooks
+Rep,Cheri,Bustos,D,IL,17,B001286,1961-10-17,RepCheri
+Rep,Ami,Bera,D,CA,7,B001287,1965-03-02,repbera
+Rep,Ken,Calvert,R,CA,42,C000059,1953-06-08,KenCalvert
+Rep,Dave,Camp,R,MI,4,C000071,1953-07-09,RepDaveCamp
+Sen,Maria,Cantwell,D,WA,Junior Seat,C000127,1958-10-13,CantwellPress
+Sen,Benjamin,Cardin,D,MD,Junior Seat,C000141,1943-10-05,SenatorCardin
+Sen,Thomas,Carper,D,DE,Senior Seat,C000174,1947-01-23,SenatorCarper
+Rep,Steve,Chabot,R,OH,1,C000266,1953-01-22,RepSteveChabot
+Sen,Saxby,Chambliss,R,GA,Senior Seat,C000286,1943-11-10,SaxbyChambliss
+Rep,Donna,Christensen,D,VI,0,C000380,1945-09-19,DelegateDonna
+Rep,James,Clyburn,D,SC,6,C000537,1940-07-21,clyburn
+Sen,Daniel,Coats,R,IN,Senior Seat,C000542,1943-05-16,sendancoats
+Rep,Howard,Coble,R,NC,6,C000556,1931-03-18,HowardCoble
+Sen,Thomas,Coburn,R,OK,Junior Seat,C000560,1948-03-14,TomCoburn
+Sen,Thad,Cochran,R,MS,Senior Seat,C000567,1937-12-07,SenThadCochran
+Rep,John,Conyers,D,MI,13,C000714,1929-05-16,repjohnconyers
+Rep,Jim,Cooper,D,TN,5,C000754,1954-06-19,repjimcooper
+Sen,Michael,Crapo,R,ID,Senior Seat,C000880,1951-05-20,mikecrapo
+Sen,Susan,Collins,R,ME,Senior Seat,C001035,1952-12-07,senatorcollins
+Rep,Lois,Capps,D,CA,24,C001036,1938-01-10,RepLoisCapps
+Rep,Joseph,Crowley,D,NY,14,C001038,1962-03-16,repjoecrowley
+Rep,Ander,Crenshaw,R,FL,4,C001045,1944-09-01,AnderCrenshaw
+Rep,Eric,Cantor,R,VA,7,C001046,1963-06-06,gopleader
+Rep,Shelley,Capito,R,WV,2,C001047,1953-11-26,RepShelley
+Rep,John,Culberson,R,TX,7,C001048,1956-08-24,congculberson
+Rep,John,Carter,R,TX,31,C001051,1941-11-06,JudgeCarter
+Rep,Tom,Cole,R,OK,4,C001053,1949-04-28,tomcoleok04
+Sen,John,Cornyn,R,TX,Senior Seat,C001056,1952-02-02,JohnCornyn
+Rep,Jim,Costa,D,CA,16,C001059,1952-04-13,repjimcosta
+Rep,Emanuel,Cleaver,D,MO,5,C001061,1944-10-26,repcleaver
+Rep,K.,Conaway,R,TX,11,C001062,1948-06-11,ConawayTX11
+Rep,Henry,Cuellar,D,TX,28,C001063,1955-09-19,RepCuellar
+Rep,John,Campbell,R,CA,45,C001064,1955-07-19,RepJohnCampbell
+Rep,Yvette,Clarke,D,NY,9,C001067,1964-11-21,YvetteClarke
+Rep,Steve,Cohen,D,TN,9,C001068,1949-05-24,repcohen
+Rep,Joe,Courtney,D,CT,2,C001069,1953-04-06,repjoecourtney
+Sen,Robert,Casey,D,PA,Senior Seat,C001070,1960-04-13,SenBobCasey
+Sen,Bob,Corker,R,TN,Junior Seat,C001071,1952-08-24,SenBobCorker
+Rep,André,Carson,D,IN,7,C001072,1974-10-16,RepAndreCarson
+Rep,Jason,Chaffetz,R,UT,3,C001076,1967-03-26,jasoninthehouse
+Rep,Mike,Coffman,R,CO,6,C001077,1955-03-19,RepMikeCoffman
+Rep,Gerald,Connolly,D,VA,11,C001078,1950-03-30,GerryConnolly
+Rep,Judy,Chu,D,CA,27,C001080,1953-07-07,RepJudyChu
+Rep,John,Carney,D,DE,0,C001083,1956-05-20,johncarneyde
+Rep,David,Cicilline,D,RI,1,C001084,1961-07-15,repcicilline
+Rep,Eric,Crawford,R,AR,1,C001087,1966-01-22,RepRickCrawford
+Sen,Chris,Coons,D,DE,Junior Seat,C001088,1963-09-09,SenCoonsOffice
+Rep,Matthew,Cartwright,D,PA,17,C001090,1961-05-01,RepCartwright
+Rep,Joaquin,Castro,D,TX,20,C001091,1974-09-16,JoaquinCastrotx
+Rep,Chris,Collins,R,NY,27,C001092,1950-05-20,RepChrisCollins
+Rep,Doug,Collins,R,GA,9,C001093,1966-08-16,RepDougCollins
+Rep,Paul,Cook,R,CA,8,C001094,1943-03-03,RepPaulCook
+Rep,Tom,Cotton,R,AR,4,C001095,1977-05-13,RepTomCotton
+Rep,Kevin,Cramer,R,ND,0,C001096,1961-01-21,RepKevinCramer
+Sen,Ted,Cruz,R,TX,Junior Seat,C001098,1970-12-22,SenTedCruz
+Rep,Peter,DeFazio,D,OR,4,D000191,1947-05-27,RepPeterDeFazio
+Rep,Diana,DeGette,D,CO,1,D000197,1957-07-29,RepDianaDeGette
+Rep,Rosa,DeLauro,D,CT,3,D000216,1943-03-02,rosadelauro
+Rep,John,Dingell,D,MI,12,D000355,1926-07-08,john_dingell
+Rep,Lloyd,Doggett,D,TX,35,D000399,1946-10-06,RepLloydDoggett
+Rep,Michael,Doyle,D,PA,14,D000482,1953-08-05,USRepMikeDoyle
+Sen,Richard,Durbin,D,IL,Senior Seat,D000563,1944-11-21,SenatorDurbin
+Rep,Mario,Diaz-Balart,R,FL,25,D000600,1961-09-25,MarioDB
+Sen,Joe,Donnelly,D,IN,Junior Seat,D000607,1955-09-28,SenDonnelly
+Rep,Theodore,Deutch,D,FL,21,D000610,1966-05-07,repteddeutch
+Rep,Jeff,Denham,R,CA,10,D000612,1967-07-29,RepJeffDenham
+Rep,Sean,Duffy,R,WI,7,D000614,1971-10-03,RepSeanDuffy
+Rep,Jeff,Duncan,R,SC,3,D000615,1966-01-07,RepJeffDuncan
+Rep,Scott,DesJarlais,R,TN,4,D000616,1964-02-21,DesJarlaisTN04
+Rep,Suzan,DelBene,D,WA,1,D000617,1962-02-17,RepDelBene
+Rep,Steve,Daines,R,MT,0,D000618,1962-08-20,stevedaines
+Rep,Rodney,Davis,R,IL,13,D000619,1970-01-05,RodneyDavis
+Rep,John,Delaney,D,MD,6,D000620,1963-04-16,RepJohnDelaney
+Rep,Ron,DeSantis,R,FL,6,D000621,1978-09-14,RepDeSantis
+Rep,Tammy,Duckworth,D,IL,8,D000622,1968-03-12,repduckworth
+Rep,Eliot,Engel,D,NY,16,E000179,1947-02-18,RepEliotEngel
+Rep,Anna,Eshoo,D,CA,18,E000215,1942-12-13,RepAnnaEshoo
+Sen,Michael,Enzi,R,WY,Senior Seat,E000285,1944-02-01,SenatorEnzi
+Rep,Keith,Ellison,D,MN,5,E000288,1963-08-04,keithellison
+Rep,Donna,Edwards,D,MD,4,E000290,1958-06-28,repdonnaedwards
+Rep,Renee,Ellmers,R,NC,2,E000291,1964-02-09,RepReneeEllmers
+Rep,William,Enyart,D,IL,12,E000292,1949-09-22,repbillenyart
+Rep,Elizabeth,Esty,D,CT,5,E000293,1959-08-25,RepEsty
+Rep,Sam,Farr,D,CA,20,F000030,1941-07-04,RepSamFarr
+Rep,Chaka,Fattah,D,PA,2,F000043,1956-11-21,chakafattah
+Sen,Dianne,Feinstein,D,CA,Senior Seat,F000062,1933-06-22,senfeinstein
+Sen,Jeff,Flake,R,AZ,Junior Seat,F000444,1962-12-31,jeffflake
+Rep,J.,Forbes,R,VA,4,F000445,1952-02-17,Randy_Forbes
+Rep,Trent,Franks,R,AZ,8,F000448,1957-06-19,RepTrentFranks
+Rep,Jeff,Fortenberry,R,NE,1,F000449,1960-12-27,JeffFortenberry
+Rep,Virginia,Foxx,R,NC,5,F000450,1943-06-29,virginiafoxx
+Rep,Michael,Fitzpatrick,R,PA,8,F000451,1963-06-28,RepFitzpatrick
+Rep,Bill,Foster,D,IL,11,F000454,1955-10-07,RepBillFoster
+Rep,Marcia,Fudge,D,OH,11,F000455,1952-10-29,RepMarciaFudge
+Rep,John,Fleming,R,LA,4,F000456,1951-07-05,RepFleming
+Rep,Stephen,Fincher,R,TN,8,F000458,1973-02-07,RepFincherTN08
+Rep,Charles,Fleischmann,R,TN,3,F000459,1962-10-11,RepChuck
+Rep,Blake,Farenthold,R,TX,27,F000460,1962-12-12,farenthold
+Rep,Bill,Flores,R,TX,17,F000461,1954-02-25,RepBillFlores
+Rep,Lois,Frankel,D,FL,22,F000462,1948-05-16,RepLoisFrankel
+Sen,Deb,Fischer,R,NE,Junior Seat,F000463,1951-03-01,SenatorFischer
+Rep,Bob,Goodlatte,R,VA,6,G000289,1952-09-22,RepGoodlatte
+Sen,Lindsey,Graham,R,SC,Senior Seat,G000359,1955-07-09,GrahamBlog
+Rep,Kay,Granger,R,TX,12,G000377,1943-01-18,RepKayGranger
+Sen,Charles,Grassley,R,IA,Senior Seat,G000386,1933-09-17,ChuckGrassley
+Rep,Gene,Green,D,TX,29,G000410,1947-10-17,RepGeneGreen
+Rep,Luis,Gutierrez,D,IL,4,G000535,1953-12-10,LuisGutierrez
+Rep,Scott,Garrett,R,NJ,5,G000548,1959-07-09,repgarrett
+Rep,Jim,Gerlach,R,PA,6,G000549,1955-02-25,JimGerlach
+Rep,Phil,Gingrey,R,GA,11,G000550,1942-07-10,RepPhilGingrey
+Rep,Raúl,Grijalva,D,AZ,3,G000551,1948-02-19,repraulgrijalva
+Rep,Louie,Gohmert,R,TX,1,G000552,1953-08-18,replouiegohmert
+Rep,Al,Green,D,TX,9,G000553,1947-09-01,RepAlGreen
+Rep,John,Garamendi,D,CA,3,G000559,1945-01-24,RepGaramendi
+Rep,Tom,Graves,R,GA,14,G000560,1970-02-03,reptomgraves
+Rep,Cory,Gardner,R,CO,4,G000562,1974-08-22,repcorygardner
+Rep,Bob,Gibbs,R,OH,7,G000563,1954-06-14,repbobgibbs
+Rep,Christopher,Gibson,R,NY,19,G000564,1964-05-13,RepChrisGibson
+Rep,Paul,Gosar,R,AZ,4,G000565,1958-11-22,RepGosar
+Rep,Trey,Gowdy,R,SC,4,G000566,1964-08-22,tgowdysc
+Rep,Tim,Griffin,R,AR,2,G000567,1968-08-21,RepTimGriffin
+Rep,H.,Griffith,R,VA,9,G000568,1958-03-15,RepMGriffith
+Rep,Michael,Grimm,R,NY,11,G000569,1970-02-07,repmichaelgrimm
+Rep,Tulsi,Gabbard,D,HI,2,G000571,1981-04-12,tulsipress
+Rep,Pete,Gallego,D,TX,23,G000572,1961-12-02,RepPeteGallego
+Sen,Thomas,Harkin,D,IA,Junior Seat,H000206,1939-11-19,SenatorHarkin
+Rep,Doc,Hastings,R,WA,4,H000329,1941-02-07,DocHastings
+Sen,Orrin,Hatch,R,UT,Senior Seat,H000338,1934-03-22,SenOrrinHatch
+Rep,Rubén,Hinojosa,D,TX,15,H000636,1940-08-20,USRepRHinojosa
+Rep,Steny,Hoyer,D,MD,5,H000874,1939-06-14,WhipHoyer
+Rep,Michael,Honda,D,CA,17,H001034,1941-06-27,RepMikeHonda
+Rep,Jeb,Hensarling,R,TX,5,H001036,1957-05-29,RepHensarling
+Rep,Brian,Higgins,D,NY,26,H001038,1959-10-06,RepBrianHiggins
+Sen,Dean,Heller,R,NV,Junior Seat,H001041,1960-05-10,SenDeanHeller
+Sen,Mazie,Hirono,D,HI,Junior Seat,H001042,1947-11-03,maziehirono
+Rep,Gregg,Harper,R,MS,3,H001045,1956-06-01,GreggHarper
+Sen,Martin,Heinrich,D,NM,Junior Seat,H001046,1971-10-17,martinheinrich
+Rep,James,Himes,D,CT,4,H001047,1966-07-05,jahimes
+Sen,Kay,Hagan,D,NC,Junior Seat,H001049,1953-05-26,SenatorHagan
+Rep,Colleen,Hanabusa,D,HI,1,H001050,1951-05-04,RepHanabusa
+Rep,Richard,Hanna,R,NY,22,H001051,1951-01-25,RepRichardHanna
+Rep,Andy,Harris,R,MD,1,H001052,1957-01-25,repandyharrismd
+Rep,Vicky,Hartzler,R,MO,4,H001053,1960-10-13,RepHartzler
+Rep,Joseph,Heck,R,NV,3,H001055,1961-10-30,RepJoeHeck
+Rep,Jaime,Herrera Beutler,R,WA,3,H001056,1978-11-03,herrerabeutler
+Rep,Tim,Huelskamp,R,KS,1,H001057,1968-11-11,conghuelskamp
+Rep,Bill,Huizenga,R,MI,2,H001058,1969-01-31,rephuizenga
+Rep,Randy,Hultgren,R,IL,14,H001059,1966-03-01,rephultgren
+Rep,Robert,Hurt,R,VA,5,H001060,1969-06-16,RepRobertHurt
+Sen,John,Hoeven,R,ND,Senior Seat,H001061,1957-03-13,SenJohnHoeven
+Rep,Janice,Hahn,D,CA,44,H001063,1952-03-30,Rep_JaniceHahn
+Rep,Denny,Heck,D,WA,10,H001064,1952-07-29,RepDennyHeck
+Rep,George,Holding,R,NC,13,H001065,1968-04-17,RepHolding
+Rep,Steven,Horsford,D,NV,4,H001066,1973-04-29,RepHorsford
+Rep,Richard,Hudson,R,NC,8,H001067,1971-11-04,RepRichHudson
+Rep,Jared,Huffman,D,CA,2,H001068,1964-02-18,RepHuffman
+Sen,Heidi,Heitkamp,D,ND,Junior Seat,H001069,1955-10-30,SenatorHeitkamp
+Sen,James,Inhofe,R,OK,Senior Seat,I000024,1934-11-17,InhofePress
+Rep,Darrell,Issa,R,CA,49,I000056,1953-11-01,DarrellIssa
+Rep,Steve,Israel,D,NY,3,I000057,1958-05-30,RepSteveIsrael
+Rep,Sheila,Jackson Lee,D,TX,18,J000032,1950-01-12,JacksonLeeTX18
+Rep,Eddie,Johnson,D,TX,30,J000126,1935-12-03,RepEBJ
+Rep,Sam,Johnson,R,TX,3,J000174,1930-10-11,SamsPressShop
+Sen,Tim,Johnson,D,SD,Senior Seat,J000177,1946-12-28,SenJohnsonSD
+Rep,Walter,Jones,R,NC,3,J000255,1943-02-10,RepWalterJones
+Rep,Henry,Johnson,D,GA,4,J000288,1954-10-02,RepHankJohnson
+Rep,Jim,Jordan,R,OH,4,J000289,1964-02-17,Jim_Jordan
+Rep,Lynn,Jenkins,R,KS,2,J000290,1963-06-10,RepLynnJenkins
+Sen,Mike,Johanns,R,NE,Senior Seat,J000291,1950-06-18,Mike_Johanns
+Rep,Bill,Johnson,R,OH,6,J000292,1954-11-10,repbilljohnson
+Sen,Ron,Johnson,R,WI,Senior Seat,J000293,1955-04-08,SenRonJohnson
+Rep,Hakeem,Jeffries,D,NY,8,J000294,1970-08-04,HakeemJeffries
+Rep,David,Joyce,R,OH,14,J000295,1957-03-17,RepDaveJoyce
+Rep,Marcy,Kaptur,D,OH,9,K000009,1946-06-17,RepMarcyKaptur
+Rep,Ron,Kind,D,WI,3,K000188,1963-03-16,repronkind
+Rep,Peter,King,R,NY,2,K000210,1944-04-05,RepPeteKing
+Rep,Jack,Kingston,R,GA,1,K000220,1955-04-24,JackKingston
+Sen,Mark,Kirk,R,IL,Junior Seat,K000360,1959-09-15,senatorkirk
+Rep,Steve,King,R,IA,4,K000362,1949-05-28,stevekingia
+Rep,John,Kline,R,MN,2,K000363,1947-09-06,repjohnkline
+Rep,Ann,Kirkpatrick,D,AZ,1,K000368,1950-03-24,RepKirkpatrick
+Rep,William,Keating,D,MA,9,K000375,1952-09-06,USRepKeating
+Rep,Mike,Kelly,R,PA,3,K000376,1948-05-10,MikeKellyPA
+Rep,Adam,Kinzinger,R,IL,16,K000378,1978-02-27,RepKinzinger
+Rep,Joseph,Kennedy,D,MA,4,K000379,1980-10-04,RepJoeKennedy
+Rep,Daniel,Kildee,D,MI,5,K000380,1958-08-11,RepDanKildee
+Rep,Derek,Kilmer,D,WA,6,K000381,1974-01-01,RepDerekKilmer
+Rep,Ann,Kuster,D,NH,2,K000382,1956-09-05,RepAnnieKuster
+Sen,Angus,King,I,ME,Junior Seat,K000383,1944-03-31,SenAngusKing
+Rep,Tom,Latham,R,IA,3,L000111,1948-07-14,TomLatham
+Sen,Frank,Lautenberg,D,NJ,Senior Seat,L000123,1924-01-23,franklautenberg
+Sen,Patrick,Leahy,D,VT,Senior Seat,L000174,1940-03-31,SenatorLeahy
+Sen,Carl,Levin,D,MI,Senior Seat,L000261,1934-06-28,sencarllevin
+Rep,Sander,Levin,D,MI,9,L000263,1931-09-06,repsandylevin
+Rep,John,Lewis,D,GA,5,L000287,1940-02-21,RepJohnLewis
+Rep,Zoe,Lofgren,D,CA,19,L000397,1947-12-21,RepZoeLofgren
+Rep,Nita,Lowey,D,NY,17,L000480,1937-07-05,NitaLowey
+Sen,Mary,Landrieu,D,LA,Senior Seat,L000550,1955-11-23,senlandrieu
+Rep,Barbara,Lee,D,CA,13,L000551,1946-07-16,repbarbaralee
+Rep,Frank,LoBiondo,R,NJ,2,L000554,1946-05-12,RepLoBiondo
+Rep,John,Larson,D,CT,1,L000557,1948-07-22,repjohnlarson
+Rep,James,Langevin,D,RI,2,L000559,1964-04-22,jimlangevin
+Rep,Rick,Larsen,D,WA,2,L000560,1965-06-15,RepRickLarsen
+Rep,Stephen,Lynch,D,MA,8,L000562,1955-03-31,RepStephenLynch
+Rep,Doug,Lamborn,R,CO,5,L000564,1954-05-24,RepDLamborn
+Rep,David,Loebsack,D,IA,2,L000565,1952-12-23,daveloebsack
+Rep,Robert,Latta,R,OH,5,L000566,1956-04-18,boblatta
+Rep,Ben,Luján,D,NM,3,L000570,1972-06-07,repbenraylujan
+Rep,Cynthia,Lummis,R,WY,0,L000571,1954-09-10,CynthiaLummis
+Rep,Raúl,Labrador,R,ID,1,L000573,1967-12-08,Raul_Labrador
+Rep,James,Lankford,R,OK,5,L000575,1968-03-04,replankford
+Sen,Mike,Lee,R,UT,Junior Seat,L000577,1971-06-04,SenMikeLee
+Rep,Doug,LaMalfa,R,CA,1,L000578,1960-07-02,RepLaMalfa
+Rep,Alan,Lowenthal,D,CA,47,L000579,1941-03-08,RepLowenthal
+Rep,Michelle,Lujan Grisham,D,NM,1,L000580,1959-10-24,replujangrisham
+Rep,Carolyn,Maloney,D,NY,12,M000087,1946-02-19,RepMaloney
+Rep,Edward,Markey,D,MA,5,M000133,1946-07-11,markeymemo
+Sen,John,McCain,R,AZ,Senior Seat,M000303,1936-08-29,SenJohnMcCain
+Rep,Carolyn,McCarthy,D,NY,4,M000309,1944-01-05,RepMcCarthyNY
+Rep,James,McGovern,D,MA,2,M000312,1959-11-20,RepMcGovern
+Sen,Mitch,McConnell,R,KY,Senior Seat,M000355,1942-02-20,McConnellPress
+Rep,Jim,McDermott,D,WA,7,M000404,1936-12-28,RepJimMcDermott
+Rep,Mike,McIntyre,D,NC,7,M000485,1956-08-06,repmikemcintyre
+Rep,Howard,McKeon,R,CA,25,M000508,1938-09-09,BuckMcKeon
+Sen,Robert,Menéndez,D,NJ,Junior Seat,M000639,1954-01-01,SenatorMenendez
+Sen,Barbara,Mikulski,D,MD,Senior Seat,M000702,1936-07-20,senatorbarb
+Rep,George,Miller,D,CA,11,M000725,1945-05-17,askgeorge
+Rep,James,Moran,D,VA,8,M000933,1945-05-16,Jim_Moran
+Sen,Jerry,Moran,R,KS,Junior Seat,M000934,1954-05-29,JerryMoran
+Sen,Patty,Murray,D,WA,Senior Seat,M001111,1950-10-11,pattymurray
+Rep,Gregory,Meeks,D,NY,5,M001137,1953-09-25,GregoryMeeks
+Rep,Gary,Miller,R,CA,31,M001139,1948-10-16,repgarymiller
+Rep,Jim,Matheson,D,UT,4,M001142,1960-03-21,RepJimMatheson
+Rep,Betty,McCollum,D,MN,4,M001143,1954-07-12,BettyMcCollum04
+Rep,Michael,Michaud,D,ME,2,M001149,1955-01-18,RepMikeMichaud
+Rep,Candice,Miller,R,MI,10,M001150,1954-05-07,CandiceMiller
+Rep,Tim,Murphy,R,PA,18,M001151,1952-09-11,RepTimMurphy
+Sen,Lisa,Murkowski,R,AK,Senior Seat,M001153,1957-05-22,lisamurkowski
+Rep,Patrick,McHenry,R,NC,10,M001156,1975-10-22,PatrickMcHenry
+Rep,Michael,McCaul,R,TX,10,M001157,1962-01-14,McCaulPressShop
+Rep,Kenny,Marchant,R,TX,24,M001158,1951-02-23,RepKenMarchant
+Rep,Cathy,McMorris Rodgers,R,WA,5,M001159,1969-05-22,cathymcmorris
+Rep,Gwen,Moore,D,WI,4,M001160,1951-04-18,RepGwenMoore
+Rep,Doris,Matsui,D,CA,6,M001163,1944-09-25,DorisMatsui
+Rep,Kevin,McCarthy,R,CA,23,M001165,1965-01-26,GOPWhip
+Rep,Jerry,McNerney,D,CA,9,M001166,1951-06-18,RepMcNerney
+Sen,Claire,McCaskill,D,MO,Senior Seat,M001170,1953-07-24,mccaskilloffice
+Rep,Daniel,Maffei,D,NY,24,M001171,1968-07-04,RepDanMaffei
+Sen,Jeff,Merkley,D,OR,Junior Seat,M001176,1956-10-24,SenJeffMerkley
+Rep,Tom,McClintock,R,CA,4,M001177,1956-07-10,RepMcClintock
+Rep,Tom,Marino,R,PA,10,M001179,1952-08-15,RepTomMarino
+Rep,David,McKinley,R,WV,1,M001180,1947-03-28,RepMcKinley
+Rep,Patrick,Meehan,R,PA,7,M001181,1955-10-20,repmeehan
+Rep,Mick,Mulvaney,R,SC,5,M001182,1967-07-21,repmickmulvaney
+Sen,Joe,Manchin,D,WV,Junior Seat,M001183,1947-08-24,Sen_JoeManchin
+Rep,Sean,Maloney,D,NY,18,M001185,1966-07-30,RepSeanMaloney
+Rep,Mark,Meadows,R,NC,11,M001187,1959-07-28,RepMarkMeadows
+Rep,Grace,Meng,D,NY,6,M001188,1975-10-01,RepGraceMeng
+Rep,Luke,Messer,R,IN,6,M001189,1969-02-27,RepLukeMesser
+Rep,Markwayne,Mullin,R,OK,2,M001190,1977-07-26,RepMullin
+Rep,Patrick,Murphy,D,FL,18,M001191,1983-03-30,RepMurphyFL
+Rep,Jerrold,Nadler,D,NY,10,N000002,1947-06-13,RepJerryNadler
+Rep,Richard,Neal,D,MA,1,N000015,1949-02-14,RepRichardNeal
+Sen,Bill,Nelson,D,FL,Senior Seat,N000032,1942-09-29,SenBillNelson
+Rep,Richard,Nolan,D,MN,8,N000127,1943-12-17,usrepricknolan
+Rep,Eleanor,Norton,D,DC,0,N000147,1937-06-13,EleanorNorton
+Rep,Grace,Napolitano,D,CA,32,N000179,1936-12-04,gracenapolitano
+Rep,Devin,Nunes,R,CA,22,N000181,1973-10-01,Rep_DevinNunes
+Rep,Randy,Neugebauer,R,TX,19,N000182,1949-12-24,RandyNeugebauer
+Rep,Kristi,Noem,R,SD,0,N000184,1971-11-30,repkristinoem
+Rep,Richard,Nugent,R,FL,11,N000185,1951-05-26,RepRichNugent
+Rep,Alan,Nunnelee,R,MS,1,N000186,1958-10-09,repalannunnelee
+Rep,Gloria,Negrete McLeod,D,CA,35,N000187,1941-09-06,RepMcLeod
+Rep,Pete,Olson,R,TX,22,O000168,1962-12-09,OlsonPressShop
+Rep,William,Owens,D,NY,21,O000169,1949-01-20,BillOwensNY
+Rep,Beto,O'Rourke,D,TX,16,O000170,1972-09-26,betoorourketx16
+Rep,Frank,Pallone,D,NJ,6,P000034,1951-10-30,FrankPallone
+Rep,Bill,Pascrell,D,NJ,9,P000096,1937-01-25,BillPascrell
+Rep,Nancy,Pelosi,D,CA,12,P000197,1940-03-26,NancyPelosi
+Rep,Joseph,Pitts,R,PA,16,P000373,1939-10-10,RepJoePitts
+Sen,Robert,Portman,R,OH,Junior Seat,P000449,1955-12-19,robportman
+Rep,David,Price,D,NC,4,P000523,1940-08-17,RepDavidEPrice
+Rep,Stevan,Pearce,R,NM,2,P000588,1947-08-24,RepStevePearce
+Sen,Mark,Pryor,D,AR,Senior Seat,P000590,1963-01-10,senmarkpryor
+Rep,Tom,Price,R,GA,6,P000591,1954-10-08,RepTomPrice
+Rep,Ted,Poe,R,TX,2,P000592,1948-09-10,JudgeTedPoe
+Rep,Ed,Perlmutter,D,CO,7,P000593,1953-05-01,RepPerlmutter
+Rep,Erik,Paulsen,R,MN,3,P000594,1965-05-14,RepErikPaulsen
+Rep,Gary,Peters,D,MI,14,P000595,1958-12-01,RepGaryPeters
+Rep,Pedro,Pierluisi,D,PR,0,P000596,1959-04-26,pedropierluisi
+Rep,Chellie,Pingree,D,ME,1,P000597,1955-04-02,chelliepingree
+Rep,Jared,Polis,D,CO,2,P000598,1975-05-12,RepPolisPress
+Rep,Bill,Posey,R,FL,8,P000599,1947-12-18,congbillposey
+Rep,Steven,Palazzo,R,MS,4,P000601,1970-02-21,congpalazzo
+Rep,Mike,Pompeo,R,KS,4,P000602,1963-12-30,repmikepompeo
+Sen,Rand,Paul,R,KY,Junior Seat,P000603,1963-01-07,SenRandPaul
+Rep,Donald,Payne,D,NJ,10,P000604,1958-12-17,RepDonaldPayne
+Rep,Scott,Perry,R,PA,4,P000605,1962-05-27,RepScottPerry
+Rep,Robert,Pittenger,R,NC,9,P000606,1948-08-15,RepPittenger
+Rep,Scott,Peters,D,CA,52,P000608,1958-06-17,RepScottPeters
+Rep,Mike,Quigley,D,IL,5,Q000023,1958-10-17,RepMikeQuigley
+Rep,Charles,Rangel,D,NY,13,R000053,1930-06-11,cbrangel
+Sen,John,Reed,D,RI,Senior Seat,R000122,1949-11-12,SenJackReed
+Sen,Harry,Reid,D,NV,Senior Seat,R000146,1939-12-02,SenatorReid
+Sen,Pat,Roberts,R,KS,Senior Seat,R000307,1936-04-20,senpatroberts
+Sen,John,Rockefeller,D,WV,Senior Seat,R000361,1937-06-18,senrockefeller
+Rep,Harold,Rogers,R,KY,5,R000395,1937-12-31,RepHalRogers
+Rep,Ileana,Ros-Lehtinen,R,FL,27,R000435,1952-07-15,RosLehtinen
+Rep,Lucille,Roybal-Allard,D,CA,40,R000486,1941-06-12,RepRoybalAllard
+Rep,Edward,Royce,R,CA,39,R000487,1951-10-12,RepEdRoyce
+Rep,Bobby,Rush,D,IL,1,R000515,1946-11-23,RepBobbyRush
+Rep,Paul,Ryan,R,WI,1,R000570,1970-01-29,reppaulryan
+Rep,Mike,Rogers,R,MI,8,R000572,1963-06-02,RepMikeRogers
+Rep,Mike,Rogers,R,AL,3,R000575,1958-07-16,RepMikeRogersAL
+Rep,C.,Ruppersberger,D,MD,2,R000576,1946-01-31,Call_Me_Dutch
+Rep,Tim,Ryan,D,OH,13,R000577,1973-07-16,RepTimRyan
+Rep,David,Reichert,R,WA,8,R000578,1950-08-29,davereichert
+Rep,Peter,Roskam,R,IL,6,R000580,1961-09-13,PeterRoskam
+Rep,David,Roe,R,TN,1,R000582,1945-07-21,DrPhilRoe
+Rep,Thomas,Rooney,R,FL,17,R000583,1970-11-21,TomRooney
+Rep,Tom,Reed,R,NY,23,R000585,1971-11-18,RepTomReed
+Rep,James,Renacci,R,OH,16,R000586,1958-12-03,repjimrenacci
+Rep,Reid,Ribble,R,WI,8,R000587,1956-04-05,RepRibble
+Rep,Cedric,Richmond,D,LA,2,R000588,1973-09-13,reprichmond
+Rep,E.,Rigell,R,VA,2,R000589,1960-05-28,repscottrigell
+Rep,Martha,Roby,R,AL,2,R000591,1976-07-27,RepMarthaRoby
+Rep,Todd,Rokita,R,IN,4,R000592,1970-02-09,ToddRokita
+Rep,Dennis,Ross,R,FL,15,R000593,1959-10-18,RepDennisRoss
+Rep,Jon,Runyan,R,NJ,3,R000594,1973-11-27,RepJonRunyan
+Sen,Marco,Rubio,R,FL,Junior Seat,R000595,1971-05-28,SenRubioPress
+Rep,Tom,Rice,R,SC,7,R000597,1957-08-04,RepTomRice
+Rep,Keith,Rothfus,R,PA,12,R000598,1962-04-25,KeithRothfus
+Rep,Raul,Ruiz,D,CA,36,R000599,1972-08-25,CongressmanRuiz
+Rep,Matt,Salmon,R,AZ,5,S000018,1958-01-21,RepMattSalmon
+Rep,Loretta,Sanchez,D,CA,46,S000030,1960-01-07,lorettasanchez
+Sen,Bernard,Sanders,I,VT,Junior Seat,S000033,1941-09-08,sensanders
+Sen,Charles,Schumer,D,NY,Senior Seat,S000148,1950-11-23,chuckschumer
+Rep,Robert,Scott,D,VA,3,S000185,1947-04-30,repbobbyscott
+Rep,F.,Sensenbrenner,R,WI,5,S000244,1943-06-14,JimPressOffice
+Rep,José,Serrano,D,NY,15,S000248,1943-10-24,repjoseserrano
+Rep,Pete,Sessions,R,TX,32,S000250,1955-03-22,petesessions
+Sen,Richard,Shelby,R,AL,Senior Seat,S000320,1934-05-06,SenShelbyPress
+Rep,Brad,Sherman,D,CA,30,S000344,1954-10-24,BradSherman
+Rep,John,Shimkus,R,IL,15,S000364,1958-02-21,RepShimkus
+Rep,Louise,Slaughter,D,NY,25,S000480,1929-08-14,louiseslaughter
+Rep,Adam,Smith,D,WA,9,S000510,1965-06-15,Rep_Adam_Smith
+Rep,Lamar,Smith,R,TX,21,S000583,1947-11-19,LamarSmithTX21
+Sen,Debbie,Stabenow,D,MI,Junior Seat,S000770,1950-04-29,StabenowPress
+Rep,Steve,Stockman,R,TX,36,S000937,1956-11-14,SteveStockmanTX
+Sen,Jefferson,Sessions,R,AL,Junior Seat,S001141,1946-12-24,SenatorSessions
+Rep,Janice,Schakowsky,D,IL,9,S001145,1944-05-26,janschakowsky
+Rep,Michael,Simpson,R,ID,2,S001148,1950-09-08,CongMikeSimpson
+Rep,Adam,Schiff,D,CA,28,S001150,1960-06-22,RepAdamSchiff
+Rep,Bill,Shuster,R,PA,9,S001154,1961-01-10,RepBillShuster
+Rep,Linda,Sánchez,D,CA,38,S001156,1969-01-28,replindasanchez
+Rep,David,Scott,D,GA,13,S001157,1946-06-27,repdavidscott
+Rep,Albio,Sires,D,NJ,8,S001165,1951-01-26,Rep_Albio_Sires
+Rep,Carol,Shea-Porter,D,NH,1,S001170,1952-12-02,RepSheaPorter
+Rep,Adrian,Smith,R,NE,3,S001172,1970-12-19,RepAdrianSmith
+Rep,Jackie,Speier,D,CA,14,S001175,1950-05-14,repspeier
+Rep,Aaron,Schock,R,IL,18,S001179,1981-05-28,repaaronschock
+Rep,Kurt,Schrader,D,OR,5,S001180,1951-10-19,repschrader
+Sen,Jeanne,Shaheen,D,NH,Senior Seat,S001181,1947-01-28,SenatorShaheen
+Rep,David,Schweikert,R,AZ,6,S001183,1962-03-03,RepDavid
+Sen,Tim,Scott,R,SC,Junior Seat,S001184,1965-09-19,SenatorTimScott
+Rep,Terri,Sewell,D,AL,7,S001185,1965-01-01,RepTerriSewell
+Rep,Steve,Southerland,R,FL,2,S001186,1965-10-10,Rep_Southerland
+Rep,Steve,Stivers,R,OH,15,S001187,1965-03-24,RepSteveStivers
+Rep,Marlin,Stutzman,R,IN,3,S001188,1976-08-31,RepStutzman
+Rep,Austin,Scott,R,GA,8,S001189,1969-12-10,AustinScottGA08
+Rep,Bradley,Schneider,D,IL,10,S001190,1961-08-20,RepSchneider
+Rep,Kyrsten,Sinema,D,AZ,9,S001191,1976-07-12,RepSinema
+Rep,Chris,Stewart,R,UT,2,S001192,1960-07-15,repchrisstewart
+Rep,Eric,Swalwell,D,CA,15,S001193,1980-11-16,repswalwell
+Rep,Bennie,Thompson,D,MS,2,T000193,1948-01-28,BennieGThompson
+Rep,Mac,Thornberry,R,TX,13,T000238,1958-07-15,MacTXPress
+Sen,John,Thune,R,SD,Junior Seat,T000250,1961-01-07,senjohnthune
+Rep,John,Tierney,D,MA,6,T000266,1951-09-18,RepTierney
+Rep,Lee,Terry,R,NE,2,T000459,1962-01-29,LEETERRYNE
+Sen,Patrick,Toomey,R,PA,Junior Seat,T000461,1961-11-17,SenToomey
+Rep,Patrick,Tiberi,R,OH,12,T000462,1962-10-21,tiberipress
+Rep,Michael,Turner,R,OH,10,T000463,1960-01-11,RepMikeTurner
+Rep,Niki,Tsongas,D,MA,3,T000465,1946-04-26,nikiinthehouse
+Rep,Glenn,Thompson,R,PA,5,T000467,1959-07-27,CongressmanGT
+Rep,Dina,Titus,D,NV,1,T000468,1950-05-23,repdinatitus
+Rep,Paul,Tonko,D,NY,20,T000469,1949-06-18,PaulTonko
+Rep,Scott,Tipton,R,CO,3,T000470,1956-11-09,RepTipton
+Rep,Mark,Takano,D,CA,41,T000472,1960-12-10,RepMarkTakano
+Rep,Fred,Upton,R,MI,6,U000031,1953-04-23,RepFredUpton
+Sen,Mark,Udall,D,CO,Senior Seat,U000038,1950-07-18,MarkUdall
+Sen,Tom,Udall,D,NM,Senior Seat,U000039,1948-05-18,SenatorTomUdall
+Rep,Nydia,Velázquez,D,NY,7,V000081,1953-03-28,NydiaVelazquez
+Rep,Peter,Visclosky,D,IN,1,V000108,1949-08-13,repvisclosky
+Rep,Chris,Van Hollen,D,MD,8,V000128,1959-01-10,chrisvanhollen
+Rep,David,Valadao,R,CA,21,V000129,1977-04-14,RepDavidValadao
+Rep,Marc,Veasey,D,TX,33,V000131,1971-01-03,RepVeasey
+Rep,Filemon,Vela,D,TX,34,V000132,1963-02-13,RepFilemonVela
+Rep,Maxine,Waters,D,CA,43,W000187,1938-08-15,MaxineWaters
+Rep,Melvin,Watt,D,NC,12,W000207,1945-08-26,MelWattNC12
+Rep,Henry,Waxman,D,CA,33,W000215,1939-09-12,WaxmanClimate
+Rep,Ed,Whitfield,R,KY,1,W000413,1943-05-25,repedwhitfield
+Sen,Roger,Wicker,R,MS,Junior Seat,W000437,1951-07-05,senatorwicker
+Rep,Frank,Wolf,R,VA,10,W000672,1939-01-30,RepWOLFPress
+Sen,Ron,Wyden,D,OR,Senior Seat,W000779,1949-05-03,RonWyden
+Rep,Greg,Walden,R,OR,2,W000791,1957-01-10,repgregwalden
+Rep,Joe,Wilson,R,SC,2,W000795,1947-07-31,USRepJoeWilson
+Rep,Lynn,Westmoreland,R,GA,3,W000796,1950-04-02,repwestmoreland
+Rep,Tim,Walberg,R,MI,7,W000798,1951-04-12,RepWalberg
+Sen,Sheldon,Whitehouse,D,RI,Junior Seat,W000802,1955-10-20,SenWhitehouse
+Rep,Robert,Wittman,R,VA,1,W000804,1959-02-03,RobWittman
+Sen,Mark,Warner,D,VA,Senior Seat,W000805,1954-12-15,MarkWarner
+Rep,Daniel,Webster,R,FL,10,W000806,1949-04-27,RepWebster
+Rep,Frederica,Wilson,D,FL,24,W000808,1942-11-05,RepWilson
+Rep,Steve,Womack,R,AR,3,W000809,1957-02-18,Rep_SteveWomack
+Rep,Ann,Wagner,R,MO,2,W000812,1962-09-13,RepAnnWagner
+Rep,Jackie,Walorski,R,IN,2,W000813,1963-08-17,RepWalorski
+Rep,Randy,Weber,R,TX,14,W000814,1953-07-02,TXRandy14
+Rep,Brad,Wenstrup,R,OH,2,W000815,1958-06-17,RepBradWenstrup
+Rep,Roger,Williams,R,TX,25,W000816,1949-09-13,RepRWilliams
+Sen,Elizabeth,Warren,D,MA,Senior Seat,W000817,1949-06-22,senwarren
+Rep,Don,Young,R,AK,0,Y000033,1933-06-09,repdonyoung
+Rep,John,Yarmuth,D,KY,3,Y000062,1947-11-04,RepJohnYarmuth
+Rep,Kevin,Yoder,R,KS,3,Y000063,1976-01-08,RepKevinYoder
+Rep,Todd,Young,R,IN,9,Y000064,1972-08-24,RepToddYoung
+Rep,Ted,Yoho,R,FL,3,Y000065,1955-04-13,RepTedYoho

@@ -3,17 +3,20 @@ require_relative './helper'
 
 outs = open('results/templegs-3.txt', 'w')
 open(LEGISLATORS_FILE) do |indata|
+  indata.readline # skip the first line
   until indata.eof? # or, more traditionally: while !(indata.eof?)
     row = indata.readline
-    outs.puts row.split(",")[0..3].reverse.join('|').upcase
+    cols = row.split(',')
+
+    outs.puts "#{cols[3]}, #{cols[1]}: #{cols[6..7].join('-')}"
   end
 end
 
 outs.close
 
 # results:
-# LASTNAME|MIDDLENAME|FIRSTNAME|TITLE
-# ABERCROMBIE||NEIL|REP
-# ACKERMAN|L.|GARY|REP
-# ADERHOLT|B.|ROBERT|REP
-# AKAKA|KAHIKINA|DANIEL|SEN
+# Abercrombie, Neil: D-HI
+# Ackerman, Gary: D-NY
+# Aderholt, Robert: R-AL
+# Akaka, Daniel: D-HI
+# Allard, Wayne: R-CO
