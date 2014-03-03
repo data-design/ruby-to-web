@@ -14,7 +14,7 @@ headers = data_rows.first.headers
 
 # Create the database
 ## start with a clean slate
-db_filename = RESULT_DIR.join 'tweet-congress-011.sqlite'
+db_filename = DB_FILENAME_01
 db_filename.delete if db_filename.exists?
 ## create the database and connect to it
 db = SQLite3::Database.new(db_filename)

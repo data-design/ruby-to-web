@@ -1,3 +1,4 @@
+#### 
 # reading file using a block and omitting default 'r' argument
 data = open('data/legislators.csv'){|f| f.read}
 
