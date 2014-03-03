@@ -1,7 +1,14 @@
-# Trying out sqlite3
-# pre:
-# at the command line, run: 
-# > gem install sqlite3
+#### Creating a database in SQLite3
+# 
+# In our `helper.rb`, we'll set a new constant:
+#
+#      TWEET_CONGRESS_DB_NAME = File.expand_path '../../results/tweet-congress.sqlite', __FILE__
+#
+###### Install the sqlite3 gem
+#
+# At the command line, run: 
+#
+#      gem install sqlite3
 
 require_relative './helper'
 require 'csv'
@@ -10,16 +17,17 @@ require 'pry'
 
 # extract the data and make an array of CSV::Row objects
 data_rows = CSV.open(TWITTER_LEGISLATORS_FILE, headers: true){|c| c.entries }
+# Store the column headers in a separate array
 headers = data_rows.first.headers
 
 # Create the database
 ## start with a clean slate
-db_filename = DB_FILENAME_01
-db_filename.delete if db_filename.exists?
-## create the database and connect to it
-db = SQLite3::Database.new(db_filename)
+db_filename = TWEET_CONGRESS_DB_NAME
+db_filename.delete if db_filename.exist?
+# Create the database and get a connection to it
+db = SQLite3::Database.new(db_filename.to_s)
 
-## create the table
+## Now create the table 
 query = "CREATE TABLE congressmembers(#{headers.join(', ')})"
 puts "\nQuery: " +  query # just to see what's going on
 db.execute(query)
