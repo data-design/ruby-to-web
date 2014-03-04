@@ -23,7 +23,7 @@ headers = data_rows.first.headers
 # Create the database
 ## start with a clean slate
 db_filename = TWEET_CONGRESS_DB_NAME
-db_filename.delete if db_filename.exist?
+File.delete(db_filename) if File.exists?(db_filename)
 # Create the database and get a connection to it
 db = SQLite3::Database.new(db_filename.to_s)
 
