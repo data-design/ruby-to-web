@@ -23,7 +23,23 @@ pages = news_urls.map do |url|
   [url, page]
 end
 #
-# Which has the largest bytes size?
+#
+# Before we do anything else, let's just write all these webpages into one giant webpage
+# since web pages are, after all, just text:
+#
+open("results/tempnewspages.html", 'w') do |outs|
+  pages.each do |a|
+    # remember each element of the `pages` array is actually a 2-element
+    # array itself. We can destructure that array with this Ruby syntactic sugar:
+    url, page = a  
+
+    outs.puts( page )
+  end
+end
+# 
+# You should have a new file that weighs in at about 1.1MB
+#
+##### Sort pages by file size
 #
 pages.sort_by{|a| -a[1].length}.each do |a|
   url, page = a
